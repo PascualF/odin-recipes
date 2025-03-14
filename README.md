@@ -1,2 +1,3 @@
-# odin-recipes
-# This is the assigment of the odin recipes.
+Odin-Recipes
+
+This is an assigment from the The Odin Project roadmap/course. The idea is understanding how HTML behave.
